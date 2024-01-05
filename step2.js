@@ -7,8 +7,9 @@ function addToZero(nums) {
                 return true
             }
         }
-    }
+    } 
     return false
+    
     }
 
 console.log(addToZero([1, 2, 3, -2]))
@@ -49,13 +50,13 @@ console.log(hasUniqueChars('monday'))
 //     const alphabet = [a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z]
 
 //     for (let i = 0; i < sentence.length; i++) {
-//         const char = sentence.charAt(i)
+//         const char = sentence.
 
 //         if (alphabet.contains(char)) {
 //             return false
 //         }
 //         alphabet.add(char)
-//     }
+//     } else
 //     return true
 // }
 
